@@ -1,3 +1,95 @@
 html {
   font-family: "Merriweather", serif;
 }
+
+.vostok {
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  border-color: #333;
+  color: #000;
+  border-style: solid;
+  border-width: thin;
+}
+
+.remembrance {
+  border-radius: 8px;
+  background-color: #f2bcbc;
+  border-color: #b92828;
+  color: #991919;
+  border-style: solid;
+  border-width: thin;
+}
+
+.kosmos {
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  border-color: #333;
+  color: #000;
+  border-style: solid;
+  border-width: thin;
+}
+
+.surtsey {
+  border-radius: 8px;
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+  color: #51603f;
+  border-style: solid;
+  border-width: thin;
+}
+
+.altitude {
+  border-radius: 8px;
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+  color: #51603f;
+  border-style: solid;
+  border-width: thin;
+}
+
+.india {
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  border-color: #333;
+  color: #000;
+  border-style: solid;
+  border-width: thin;
+}
+
+.death {
+  border-radius: 8px;
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  color: #38448e;
+  border-style: solid;
+  border-width: thin;
+}
+
+.doctorwho{
+  border-radius: 8px;
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  color: #38448e;
+  border-style: solid;
+  border-width: thin;
+}
+
+.explorer {
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  border-color: #333;
+  color: #000;
+  border-style: solid;
+  border-width: thin;
+}
+
+td {
+  height: 10rem;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+table {
+  border: 1px solid #ccc;
+  border: 1px solid #666;
+}
